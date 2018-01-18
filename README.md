@@ -12,7 +12,7 @@ Thesis written for Economics 191 in UC Berkeley: Topics in Economic Research. Me
 - Economic Factors: real GDP per capita, unemployment rate, labor force growth, % w/ high school diploma, electricity consumption per GDP, Charges Revenue as % GDP, Protective Inspection & Regulation expenditures as % GDP, Government expenditures as % GDP, Indirect Tax revenue as % GDP, Insurance Trust, unemployment compensation, employee retirement, and workers’ compensation expenditures as % of GDP.
 - Data Sources: U.S. Bureau of Labor Statistics, Bureau of Economic Analysis, U.S. Energy Information Administration, U.S. Department of Commerce, Census Bureau.
 
-- Cleaning, wrangling, aggregating, and joining all such data implemented through R scripts. 
+Cleaning, wrangling, aggregating, and joining all such data implemented through R scripts. 
 
 
 ## Methodology (STATA)
