@@ -24,3 +24,7 @@ Thesis written for Economics 191 in UC Berkeley: Topics in Economic Research. Me
 ### Identifying Causal Effect of Shadow Economy on Housing First
 - Utilized fixed time and state effects panel regression relating homelessness numbers, Housing First policy, shadow economy level, controlling for covariates.
 - Variable of interest: Interaction term of Housing First policy X Shadow Economy levels.
+
+
+## Results
+- See final paper here: 
