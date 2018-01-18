@@ -27,4 +27,4 @@ Thesis written for Economics 191 in UC Berkeley: Topics in Economic Research. Me
 
 
 ## Results
-- See final paper here: 
+- [Final paper](https://github.com/leyldy/Econ191Thesis/blob/master/Econ_191_Research_Paper.pdf) 
